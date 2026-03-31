@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400..900;1,400..900&display=swap');
+
+body {
+    text-align: center;
+    background-color: rgb(250, 247, 212);
+}
+
+.titulo {
+    font-family: "Playfair Display";
+}
+
+.imagemlogo {
+    border-radius: 0%;
+}
+
+.botao {
+    height: 40px;
+    width: 100px;
+    background-color: black;
+    border: 0;
+    font-size: 15px;
+    color: rgb(197, 197, 197);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    border-radius: 10px;
+    cursor: pointer;
+}
